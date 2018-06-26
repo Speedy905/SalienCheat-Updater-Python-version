@@ -3,6 +3,7 @@
 # saliencheat_pythonupdater.sh - Downloads the updated version for the Python version of SalienCheat
 
 # By /u/thespeedy905
+# Inspired by FallenAege
 
 # Instructions
 # Make sure that this script is in the same folder as cheat.py
