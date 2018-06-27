@@ -6,7 +6,7 @@
 # Inspired by FallenAege
 
 # Instructions
-# Make sure that this script is in the same folder as cheat.py
+# Make sure that this script is in the same folder as cheat.py and that it is not running
 # Make sure to give this script execure permissions (In that case chmod u+x saliencheat_pythonupdater.sh)
 # Run the script by typing ./saliencheat_pythonupdater.sh
 
