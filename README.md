@@ -10,3 +10,5 @@ How to use the script:
 2. Download saliencheat_pythonupdater.sh and place it at the same folder as cheat.py 
 3. Give the script execute permissions
 4. Run the bash script
+
+THIS REPO IS NOW ARCHIVED. THERE IS NO NEED TO RUN THIS SCRIPT ANYMORE.
